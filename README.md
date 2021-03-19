@@ -1,7 +1,7 @@
 # TKInter_Project
 
 
-Zdravo, ovdje zelim da pokazem moj novi projekat koji sam radio sa mentorom Atifom Bećirbašićem. 
+Zdravo, ovdje zelim da pokazem moj novi projekat koji sam radio sa mentorom Atifom Bećirbašićem te kolegom Farisom Hurićem. 
 Prije svega želim da naglasim da ovaj projekat nije zavšren te da je u procesu izrade.
 Završeno je nekih 35% projekta.
 Projekat je rađen u Python Programskom jeziku , u TKInter gui toolkitom.
