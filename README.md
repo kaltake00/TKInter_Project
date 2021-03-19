@@ -9,3 +9,4 @@ Ovim projektom želim pokazati svoje skillove i znaja što se tiče samog proced
 Implementirao sam spremanje podataka u MySQL databaze. 
 Projekat se sastoji od više modula kao što možete vidjeti. 
 
+Zamišljeni cilj ovoga projekta jeste upravljanjem klijentima, njihovim leadovima, reportsima itd, kako bi što lakše mogli handlovati rad "naše" kompanije sa klijentima.
