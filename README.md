@@ -12,4 +12,13 @@ Projekat se sastoji od više modula kao što možete vidjeti.
 Zamišljeni cilj ovoga projekta jeste upravljanjem klijentima, njihovim leadovima, reportsima itd, kako bi što lakše mogli handlovati rad "naše" kompanije sa klijentima.
 
 
+Screenshots:
+
+![alt text](https://github.com/kaltake00/TKInter_Project/blob/main/img/mainwindow.png)
+
+
 ![alt text](https://github.com/kaltake00/TKInter_Project/blob/main/img/menu1.png)
+
+
+
+![alt text](https://github.com/kaltake00/TKInter_Project/blob/main/img/edit_users.png)
